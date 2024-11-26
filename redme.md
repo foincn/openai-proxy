@@ -12,7 +12,8 @@
 要安装项目依赖，请运行以下命令：
 ```bash
 pip install -r requirements.txt
+```
 运行应用 🏃
-bash
+```bash
 python main.py
 ```
