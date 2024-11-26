@@ -13,26 +13,6 @@
 ```bash
 pip install -r requirements.txt
 运行应用 🏃
-要启动 Flask 应用，请运行：
-
-bash
-python main.py
-```
-##Introduction 📝
-This Flask application serves as an API proxy server, which forwards requests and replaces specific API Keys. It also includes logging capabilities to monitor requests and responses.
-
-###Features ✨
-API Key Replacement
-Request and Response Logging
-CORS Support
-##Install Dependencies 🛠️
-To install the project dependencies, run the following command:
-
-```bash
-pip install -r requirements.txt
-Run the Application 🏃
-To start the Flask application, run:
-
 bash
 python main.py
 ```
